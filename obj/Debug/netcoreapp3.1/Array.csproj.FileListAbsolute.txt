@@ -1,0 +1,13 @@
+C:\Users\victo_000\Desktop\HTML\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\victo_000\Desktop\HTML\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\victo_000\Desktop\HTML\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\victo_000\Desktop\HTML\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\victo_000\Desktop\HTML\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\victo_000\Desktop\HTML\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\victo_000\Desktop\HTML\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+C:\Users\victo_000\Desktop\HTML\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\victo_000\Desktop\HTML\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\victo_000\Desktop\HTML\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\victo_000\Desktop\HTML\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\victo_000\Desktop\HTML\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\victo_000\Desktop\HTML\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
